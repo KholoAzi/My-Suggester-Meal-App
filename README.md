@@ -1,43 +1,11 @@
-# My-Suggester-Meal-App
+# Sample Snack app
 
-Youtube link: https://youtube.com/shorts/kxv2oH1a1Xw
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-Project Overview
-The Meal Suggester App is a simple yet user-friendly mobile application developed using React Native with Expo. It is designed to suggest suitable meals based on the time of day the user inputs. From breakfast to late-night dessert, the app offers visual and textual recommendations tailored to the user's routine.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-The main goal of this app is to:
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-Help users plan meals based on specific times of the day.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-Encourage healthy eating habits by offering diverse meal options.
-
-Provide an intuitive and visually engaging experience.
-
-App Features
-* Input-Based Meal Suggestion
-Users input a time of day (e.g. morning, dinner), and the app suggests a meal based on that entry.
-
-* Meal Visuals
-Each suggestion includes a corresponding image to create an engaging user experience.
-
-* Reset Functionality
-A dedicated reset button clears the current input and any meal suggestion previously made.
-
-* Validation & Alerts
-If a user inputs an unrecognized time of day, the app provides an alert explaining the valid inputs.
-
-
-The final product is:
-
-Fully functional and responsive on mobile.
-
-Tested with multiple time inputs.
-
-Error-free and includes all visual assets.
-
-Ready for deployment via Expo or Play Store.
-
-
-![image](https://github.com/user-attachments/assets/be073d5b-8d3a-4a3a-b0b3-45f7420e3f31)
-![image](https://github.com/user-attachments/assets/6ff13f4f-de4e-487f-81f1-332fa7e8f09b)
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
